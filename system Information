@@ -1,0 +1,29 @@
+Task: To display Linux system infomation 
+command : uname -a 
+
+Task: To display kernel release information
+command : uname -r 
+
+Task: To display hostname 
+command : uname -n 
+
+Task: To know how long system has been running
+command: uptime 
+
+Task: To know the system name
+command: hostname
+
+Task: To display IP address of the host 
+command : hostname -i 
+
+Task: To display reboot history 
+command: last reboot
+
+Task: To display who is online 
+command: w
+
+Task: To know who you logged in as 
+command: whoami 
+
+Task: To display hostid 
+command: hostid
