@@ -22,6 +22,12 @@ command: last reboot
 Task: To display who is online 
 command: w
 
+Task: To locate the executable files or location of a program from the file system
+Command: which command
+
+Task: locates the source, binary, and manuals sections for specified files
+command: whereis command
+
 Task: To know who you logged in as 
 command: whoami 
 
