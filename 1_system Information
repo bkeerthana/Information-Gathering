@@ -1,4 +1,7 @@
-Task: To display Linux system infomation 
+Task: To know distributor deails 
+command: cat /etc/lsb-release
+
+Task: To display Linux system infomation about computers software and hardware
 command : uname -a 
 
 Task: To display kernel release information
