@@ -4,11 +4,18 @@ command: id
 Task: Show the last system logins
 command: last 
 
+Task: To show failed login attempts 
+command: lastb
+
 Task: Display who is currently logged into the system
 command : who 
 
 Task: To Show which users are logged in and their activity
 command: w
+
+Task: To get user details from different text file like 
+/etc/passwd /etc/group/ etc/hosts and so on. 
+Command: getent nameofthefile username
 
 Task: To check user information
 command: finger [user_name]	
